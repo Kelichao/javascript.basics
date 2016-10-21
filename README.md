@@ -1,2 +1,2 @@
 # javascript
-js的相关要点
+js的相关基础知识要点
