@@ -10,3 +10,4 @@ js的相关基础知识要点
 - [JavaScript【封装，继承，多态】的详解](https://github.com/Kelichao/JavaScript/issues/3)
 - [JS面向对象总结【this,prototype】（笔记）](https://github.com/Kelichao/JavaScript/issues/2)
 - [检测浏览器文档加载完毕](https://github.com/Kelichao/JavaScript/issues/1)
+- [组件化开发模式(弹窗)](https://github.com/Kelichao/JavaScript/issues/16)
