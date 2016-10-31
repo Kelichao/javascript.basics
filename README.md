@@ -1,6 +1,6 @@
 # javascript
 js的相关基础知识要点
-
+- [Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
 - [闭包知识点](https://github.com/Kelichao/JavaScript/issues/4)
 - [改变this指向的途径 【call， apply，bind，$.proxy()】](https://github.com/Kelichao/JavaScript/issues/6)
 - [Array数组常用方法总结](https://github.com/Kelichao/JavaScript/issues/8)
@@ -11,3 +11,4 @@ js的相关基础知识要点
 - [JS面向对象总结【this,prototype】（笔记）](https://github.com/Kelichao/JavaScript/issues/2)
 - [检测浏览器文档加载完毕](https://github.com/Kelichao/JavaScript/issues/1)
 - [组件化开发模式(弹窗)](https://github.com/Kelichao/JavaScript/issues/16)
+- [title](aaa)
