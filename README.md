@@ -6,7 +6,6 @@
 
 更多文章请看
 
-##[Issues文章列表](https://github.com/kujian/frontendDaily/issues)
 
 ## 每日更新模板预览：[20160907 前端开发日报](https://github.com/kujian/frontendDaily/issues)
 
