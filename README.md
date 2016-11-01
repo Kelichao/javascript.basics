@@ -1,7 +1,14 @@
-# [frontendDaily](https://github.com/kujian/frontendDaily/issues)
-每天会发布一篇码农头条上的前端开发文章.
+# [frontendDaily](https://github.com/kujian/frontendDaily/issues) 
 
-欢迎点击Star或者Watch来收听。(强烈推荐)
+每天会发布一篇[码农头条](http://hao.caibaojian.com)上的`前端开发`文章.
+
+欢迎点击Star或者Watch来收听。
+
+更多文章请看
+
+##[Issues文章列表](https://github.com/kujian/frontendDaily/issues)
+
+## 每日更新模板预览：[20160907 前端开发日报](https://github.com/kujian/frontendDaily/issues)
 
 ## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
