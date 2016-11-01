@@ -1,5 +1,8 @@
 # javascript
 js的相关基础知识要点
+- [浅复制与深复制（克隆）](https://github.com/Kelichao/JavaScript/issues/16)
+- [原型链关系的方法汇总](https://github.com/Kelichao/JavaScript/issues/15)
+- [JS代码执行顺序的相关要点，以及对值的影响](https://github.com/Kelichao/JavaScript/issues/14)
 - [Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
 - [闭包知识点](https://github.com/Kelichao/JavaScript/issues/4)
 - [改变this指向的途径 【call， apply，bind，$.proxy()】](https://github.com/Kelichao/JavaScript/issues/6)
