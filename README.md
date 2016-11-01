@@ -3,7 +3,7 @@
 
 欢迎点击Star或者Watch来收听。
 
-# [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
+## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
 js的相关基础知识要点
 - [Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
