@@ -1,12 +1,12 @@
 # [frontendDaily](https://github.com/kujian/frontendDaily/issues)
 每天会发布一篇码农头条上的前端开发文章.
 
-欢迎点击Star或者Watch来收听。
+欢迎点击Star或者Watch来收听。(强烈推荐)
 
 ## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
 js的相关基础知识要点
-- [Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
+1. [Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
 - [浅复制与深复制（克隆）](https://github.com/Kelichao/JavaScript/issues/16)
 - [原型链关系的方法汇总](https://github.com/Kelichao/JavaScript/issues/15)
 - [JS代码执行顺序的相关要点，以及对值的影响](https://github.com/Kelichao/JavaScript/issues/14)
