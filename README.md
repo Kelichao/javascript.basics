@@ -29,4 +29,4 @@ js的相关基础知识要点
 - [3.JavaScript【封装，继承，多态】的详解](https://github.com/Kelichao/JavaScript/issues/3)
 - [2.JS面向对象总结【this,prototype】（笔记）](https://github.com/Kelichao/JavaScript/issues/2)
 - [1.检测浏览器文档加载完毕](https://github.com/Kelichao/JavaScript/issues/1)
-- [title](aaa)
+//- [title](aaa)
