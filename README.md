@@ -12,6 +12,8 @@
 ## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
 js的相关基础知识要点
+通过间接引用，意外改变this指向案例
+- [18.通过间接引用，意外改变this指向案例](https://github.com/Kelichao/JavaScript/issues/18)
 - [17.Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
 - [16.浅复制与深复制（克隆）](https://github.com/Kelichao/JavaScript/issues/16)
 - [15.原型链关系的方法汇总](https://github.com/Kelichao/JavaScript/issues/15)
