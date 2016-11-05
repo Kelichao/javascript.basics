@@ -13,6 +13,7 @@
 javascript
 js的相关基础知识要点
 通过间接引用，意外改变this指向案例
+- [19.JS中小括号的用法总结（自执行函数）](https://github.com/Kelichao/JavaScript/issues/19)
 - [18.通过间接引用，意外改变this指向案例](https://github.com/Kelichao/JavaScript/issues/18)
 - [17.Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
 - [16.浅复制与深复制（克隆）](https://github.com/Kelichao/JavaScript/issues/16)
