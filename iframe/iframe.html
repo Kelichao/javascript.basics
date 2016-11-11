@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>iframe主页面</title>
+</head>
+<body>
+	<div id="aaa"></div>
+
+	<iframe name="iframe1" src="./iframe1.html"></iframe>
+	<iframe name="iframe2" src="./iframe2.html">
+		
+	</iframe>
+</body>
+<script type="text/javascript">
+	var aaa = document.getElementById("aaa");
+	aaa.innerHTML = "主页面";
+	aaa.innerHTML +="frames.length:"+window.frames.length;
+
+	console.log(window.frames[0].document.getElementById("bbb"));
+</script>
+</html>
