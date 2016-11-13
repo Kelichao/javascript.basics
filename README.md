@@ -12,7 +12,11 @@
 ## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
 js的相关基础知识要点
-通过间接引用，意外改变this指向案例
+
+- [23.基于iframe嵌套，以及调用的规则。](https://github.com/Kelichao/JavaScript/issues/23)
+- [22.JS设计模式（发布/订阅模式）](https://github.com/Kelichao/JavaScript/issues/22)
+- [21.安全构造函数法](https://github.com/Kelichao/JavaScript/issues/21)
+- [20.伪数组、类数组 对象介绍以及区别](https://github.com/Kelichao/JavaScript/issues/20)
 - [19.JS中小括号的用法总结（自执行函数）](https://github.com/Kelichao/JavaScript/issues/19)
 - [18.通过间接引用，意外改变this指向案例](https://github.com/Kelichao/JavaScript/issues/18)
 - [17.Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
