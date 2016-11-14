@@ -24,7 +24,7 @@ js的相关基础知识要点
 - [15.原型链关系的方法汇总](https://github.com/Kelichao/JavaScript/issues/15)
 - [14.JS代码执行顺序的相关要点，以及对值的影响](https://github.com/Kelichao/JavaScript/issues/14)
 - [13.面向对象的编程方式总结。](https://github.com/Kelichao/JavaScript/issues/13)
-- [12.循环方法，forEach,map区别与联系](https://github.com/Kelichao/JavaScript/issues/12)
+- [12.for循环，forEach，map，$.each()，some，fliter，every区别与联系](https://github.com/Kelichao/JavaScript/issues/12)
 - [11.定时器相关的注意点](https://github.com/Kelichao/JavaScript/issues/11)
 - [10.offsetHeight,offsetTop:clientHeight;clientTop 区别](https://github.com/Kelichao/JavaScript/issues/10)
 - [9.原生dom节点操作属性值，以及操作方式](https://github.com/Kelichao/JavaScript/issues/9)
