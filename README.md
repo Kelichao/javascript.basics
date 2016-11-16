@@ -13,15 +13,15 @@
 javascript
 js的相关基础知识要点
 
-- [23.基于iframe嵌套，以及调用的规则。](https://github.com/Kelichao/JavaScript/issues/23)
-- [22.JS设计模式（发布/订阅模式）](https://github.com/Kelichao/JavaScript/issues/22)
-- [21.安全构造函数法](https://github.com/Kelichao/JavaScript/issues/21)
+- [23.基于【iframe】嵌套，以及调用的规则。](https://github.com/Kelichao/JavaScript/issues/23)
+- [22.JS设计模式【（发布/订阅模式）】](https://github.com/Kelichao/JavaScript/issues/22)
+- [21.【安全】构造函数法](https://github.com/Kelichao/JavaScript/issues/21)
 - [20.伪数组、类数组 对象介绍以及区别](https://github.com/Kelichao/JavaScript/issues/20)
-- [19.JS中小括号的用法总结（自执行函数）](https://github.com/Kelichao/JavaScript/issues/19)
+- [19.JS中【小括号】的用法总结（自执行函数）](https://github.com/Kelichao/JavaScript/issues/19)
 - [18.通过间接引用，意外改变this指向案例](https://github.com/Kelichao/JavaScript/issues/18)
 - [17.Javascript之【继承】](https://github.com/Kelichao/JavaScript/issues/17)
-- [16.浅复制与深复制（克隆）](https://github.com/Kelichao/JavaScript/issues/16)
-- [15.原型链关系的方法汇总](https://github.com/Kelichao/JavaScript/issues/15)
+- [16.浅复制与深复制【克隆】](https://github.com/Kelichao/JavaScript/issues/16)
+- [15.【原型链】关系的方法汇总](https://github.com/Kelichao/JavaScript/issues/15)
 - [14.JS代码执行顺序的相关要点，以及对值的影响](https://github.com/Kelichao/JavaScript/issues/14)
 - [13.面向对象的编程方式总结。](https://github.com/Kelichao/JavaScript/issues/13)
 - [12.for循环，forEach，map，$.each()，some，fliter，every区别与联系](https://github.com/Kelichao/JavaScript/issues/12)
@@ -35,5 +35,5 @@ js的相关基础知识要点
 - [4.JavaScript【闭包】](https://github.com/Kelichao/JavaScript/issues/4)
 - [3.JavaScript【封装，继承，多态】的详解](https://github.com/Kelichao/JavaScript/issues/3)
 - [2.JS面向对象总结【this,prototype】（笔记）](https://github.com/Kelichao/JavaScript/issues/2)
-- [1.检测浏览器文档加载完毕](https://github.com/Kelichao/JavaScript/issues/1)
+- [1.检测浏览器【文档加载完毕】](https://github.com/Kelichao/JavaScript/issues/1)
 //- [title](aaa)
