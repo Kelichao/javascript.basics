@@ -14,7 +14,7 @@ javascript
 js的相关基础知识要点
 
 - [23.基于【iframe】嵌套，以及调用的规则。](https://github.com/Kelichao/JavaScript/issues/23)
-- [22.JS设计模式【（发布/订阅模式）】](https://github.com/Kelichao/JavaScript/issues/22)
+- [22.JS设计模式【发布/订阅模式、观察者模式】](https://github.com/Kelichao/JavaScript/issues/22)
 - [21.【安全】构造函数法](https://github.com/Kelichao/JavaScript/issues/21)
 - [20.伪数组、类数组 对象介绍以及区别](https://github.com/Kelichao/JavaScript/issues/20)
 - [19.JS中【小括号】的用法总结（自执行函数）](https://github.com/Kelichao/JavaScript/issues/19)
