@@ -1,15 +1,16 @@
 ## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
 js的相关基础知识要点
-
-
-- [判断对象类型](https://github.com/Kelichao/JavaScript.basics/issues/30)
-- [Widget抽象类-继承](https://github.com/Kelichao/JavaScript.basics/issues/29)
-- [http请求头、请求工程](https://github.com/Kelichao/JavaScript.basics/issues/28)
-- [递归执行过程](https://github.com/Kelichao/JavaScript.basics/issues/27)
-- [AMD / CMD规则 ](https://github.com/Kelichao/JavaScript.basics/issues/26)
-- [变量未定义、变量未初始化](https://github.com/Kelichao/JavaScript.basics/issues/25)
-- [DOM操作](https://github.com/Kelichao/JavaScript.basics/issues/24)
+- [33.关于undefined被重写问题](https://github.com/Kelichao/JavaScript.basics/issues/33)
+- [32.【if判断语句】规律](https://github.com/Kelichao/JavaScript.basics/issues/32)
+- [31.【编码，解码】方式总结](https://github.com/Kelichao/JavaScript.basics/issues/31)
+- [30.判断对象类型](https://github.com/Kelichao/JavaScript.basics/issues/30)
+- [29.Widget抽象类-继承](https://github.com/Kelichao/JavaScript.basics/issues/29)
+- [28.http请求头、请求工程](https://github.com/Kelichao/JavaScript.basics/issues/28)
+- [27.递归执行过程](https://github.com/Kelichao/JavaScript.basics/issues/27)
+- [26.AMD / CMD规则 ](https://github.com/Kelichao/JavaScript.basics/issues/26)
+- [25.变量未定义、变量未初始化](https://github.com/Kelichao/JavaScript.basics/issues/25)
+- [24.DOM操作](https://github.com/Kelichao/JavaScript.basics/issues/24)
 - [23.基于【iframe】嵌套，以及调用的规则。](https://github.com/Kelichao/JavaScript.basics/issues/23)
 - [22.JS设计模式【发布/订阅模式、观察者模式】](https://github.com/Kelichao/JavaScript.basics/issues/22)
 - [21.【安全】构造函数法](https://github.com/Kelichao/JavaScript.basics/issues/21)
@@ -33,4 +34,4 @@ js的相关基础知识要点
 - [3.JavaScript【封装，继承，多态】的详解](https://github.com/Kelichao/JavaScript.basics/issues/3)
 - [2.JS面向对象总结【this,prototype】（笔记）](https://github.com/Kelichao/JavaScript.basics/issues/2)
 - [1.检测浏览器【文档加载完毕】](https://github.com/Kelichao/JavaScript.basics/issues/1)
-//- [title](aaa)
+
