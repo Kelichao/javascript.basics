@@ -1,6 +1,10 @@
 ## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
 js的相关基础知识要点
+- [37.【new Date()】日期方法](https://github.com/Kelichao/JavaScript.basics/issues/37)
+- [36.【字面量对象】初始化中的问题](https://github.com/Kelichao/JavaScript.basics/issues/36)
+- [35.【动态脚本】的加载](https://github.com/Kelichao/JavaScript.basics/issues/35)
+- [34.【number】类型处理手段](https://github.com/Kelichao/JavaScript.basics/issues/34)
 - [33.【undefined】被重写问题](https://github.com/Kelichao/JavaScript.basics/issues/33)
 - [32.【if判断语句】规律](https://github.com/Kelichao/JavaScript.basics/issues/32)
 - [31.【编码，解码】方式总结](https://github.com/Kelichao/JavaScript.basics/issues/31)
