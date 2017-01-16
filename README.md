@@ -35,7 +35,7 @@ js的相关基础知识要点
 - [6.【call， apply，bind，$.proxy()】改变this指向的途径 ](https://github.com/Kelichao/JavaScript.basics/issues/6)
 - [5.【冒泡，二分法】数组常用排序方法](https://github.com/Kelichao/JavaScript.basics/issues/5)
 - [4.【闭包】JavaScript](https://github.com/Kelichao/JavaScript.basics/issues/4)
-- [3.【封装，继承，多态】JavaScript封装，继承，多态的详解](https://github.com/Kelichao/JavaScript.basics/issues/3)
+- [3.【滚动条】scrollTop,scrollHeight](https://github.com/Kelichao/JavaScript.basics/issues/3)
 - [2.【prototype，this】JS面向对象总结（笔记）](https://github.com/Kelichao/JavaScript.basics/issues/2)
 - [1.【文档加载完毕】检测浏览器](https://github.com/Kelichao/JavaScript.basics/issues/1)
 
