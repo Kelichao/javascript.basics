@@ -1,6 +1,12 @@
 ## [JavaScript issue目录](https://github.com/Kelichao/JavaScript/issues)
 javascript
 js的相关基础知识要点
+- [43.【重排，重绘】要点](https://github.com/Kelichao/JavaScript.basics/issues/43)
+- [42.【while,for】两大循环相互之间的联系与优缺点](https://github.com/Kelichao/JavaScript.basics/issues/42)
+- [41.【前端安全】JavaScript防http劫持与XSS](https://github.com/Kelichao/JavaScript.basics/issues/41)
+- [40.【hash路由】注意点](https://github.com/Kelichao/JavaScript.basics/issues/40)
+- [39.【逗号】操作符](https://github.com/Kelichao/JavaScript.basics/issues/39)
+- [38.【函数声明】，函数表达式，区分与理解](https://github.com/Kelichao/JavaScript.basics/issues/38)
 - [37.【new Date()】日期方法](https://github.com/Kelichao/JavaScript.basics/issues/37)
 - [36.【字面量对象】初始化中的问题](https://github.com/Kelichao/JavaScript.basics/issues/36)
 - [35.【动态脚本】的加载](https://github.com/Kelichao/JavaScript.basics/issues/35)
