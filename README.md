@@ -85,32 +85,29 @@ doit(element, window, document, "some code", true,
 4. 在方法内的逻辑片段之间插入空行，提高可读性。
 
 ## 1.6命名
-> 驼峰法用于普通变量，功能函数
 
-`var anotherNames`
+```js
+// 驼峰法用于普通变量，功能函数
+var anotherNames;
 
-> 首字符大写用于构造函数
+// 首字符大写用于构造函数
+function Model(){// somecode}
 
-`function Model(){// somecode}`
+// 全大写字母用于常量
+var PERSON_COUNT = 10;
 
-> 全大写字母用于常量
+// #新型命名法
 
-`var PERSON_COUNT = 10;`
+// 1. 字符串
+var s_myString = "asdf";
 
-> 新型命名法
+// 2. 数组
+var a_myArray = [1, 2, 3, 4];
 
-1. 字符串
+// 3. 对象
+var o_myObject = {a: 1, b: 2};
 
-`var s_myString = "asdf";`
-
-2. 数组
-
-`var a_myArray = [1, 2, 3, 4];`
-
-3. 对象
-
-`var o_myObject = {a: 1, b: 2};`
-
+```
 ## 1.6.1变量和函数
 > 变量名前缀应当为名词
 
