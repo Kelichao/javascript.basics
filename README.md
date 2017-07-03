@@ -154,6 +154,27 @@ function getName() {
     </tr>
 </table>
 
+## 1.6.2前后台变量名不一致
+```js
+// 预先进行缓存
+var productionSeqNumber = "productId";
+
+var data = {
+    productId: 12345678
+};
+
+var final = {
+    productionSeqNumber: ""
+};
+
+// 一一对应，防止混淆
+final.productionSeqNumber = data[productionSeqNumber];
+```
+
+## 1.6.3 异步请求变量缓存
+> 将单纯的数组存储方式改为用单一有效值数据对象进行存储
+[demo](https://github.com/Kelichao/javascript.basics/issues/49)
+
 ## 1.7直接量换行
 > 换行
 
