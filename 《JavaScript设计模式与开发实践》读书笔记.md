@@ -8,19 +8,19 @@
 
 ```js
 var googleMap = {
-    show: function(){
+    show: ()=>{
     console.log( '开始渲染谷歌地图' );
     }
 };
 var baiduMap = {
-    show: function(){
+    show:()=>{
     console.log( '开始渲染百度地图' );
     }
 };
 
 // 函数以字符串形式的传参形式
 // 如果判断条件一旦增多，就会变全是if-else语句
-var renderMap = function( type ){
+var renderMap = ( type )=> {
     if ( type === 'google' ){
         googleMap.show();
     }else if ( type === 'baidu' ){
@@ -36,7 +36,7 @@ renderMap( 'baidu' ); // 输出：开始渲染百度地图
 
 ```js
 // 将render传入的参数换成相应的对象
-var renderMap = function( map ){
+var renderMap = ( map )=> {
     if ( map.show instanceof Function ){
         map.show();
     }
